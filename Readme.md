@@ -187,5 +187,4 @@ This project serves as a strong foundation for future full-stack development and
 📌 Tagline
 
 Eat Smart. Burn Right.
-# bite-n-burn
-# bite-n-burn
+# Bite-N-Burn
